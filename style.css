@@ -1,0 +1,56 @@
+body{
+    background-color: blue;
+}
+.bg{
+    border: solid 1px;
+    background-color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 8px;
+}
+.ki{
+    margin-left: 200px;
+}
+.lo{
+    margin-left: 130px;
+    margin-top: 100px;
+}
+.pol{
+    margin-left: 100px ;
+    margin-bottom: 200px;
+    margin-top: 50px;
+}
+.p{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    background-color:rgb(243, 243, 249);
+    padding: 10px;
+    border-radius: 4px;
+    border-color: white;
+    border: solid 2px rgb(232, 229, 229);
+    
+}
+.nu{
+    margin-left: 800px;
+    border-bottom: solid 1px rgb(243, 243, 249);
+    margin-right: 100px;
+    display: inline;
+    font-size: 25px;
+}
+body{
+    background-image: linear-gradient( to left, aqua, blue);
+}
+.ni{
+    margin-left: 30px;
+    background-color: orange;
+    border-radius: 6px;
+    border: solid 1px white;
+    padding: 5px;
+    display: inline;
+     color: white;
+}
+.lo{
+    font-size: 20px;
+}
